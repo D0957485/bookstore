@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
   //KKKKK
   //KKKKKKKKK
   //Lin bing yi
-
+  //yamete >_<
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
