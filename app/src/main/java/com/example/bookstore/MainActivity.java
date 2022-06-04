@@ -6,14 +6,6 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-  //hiii test
-  //hi test K
-  // ooooooooooooooooOoOoOoOo Lu
-  //KKKKK
-  //KKKKKKKKK
-  //Lin bing yi
-  //yamete >_<
-  //hixdfojsdfo
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
