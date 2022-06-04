@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">bookstore</string>
+    <string name="個人資料">個人資料</string>
+    <string name="個人店鋪">個人店鋪</string>
+    <string name="購物車">購物車</string>
+    <string name="訂單管理">訂單管理</string>
+    <string name="個人頁面">個人頁面</string>
+    <string name="返回">返回</string>
+    <string name="藏書箱">藏書箱</string>
+    <string name="登入">登入</string>
 </resources>
