@@ -8,4 +8,13 @@
     <string name="返回">返回</string>
     <string name="藏書箱">藏書箱</string>
     <string name="登入">登入</string>
+    <string name="已修改">已修改</string>
+    <string name="密碼">密碼:</string>
+    <string name="電子郵件">電子郵件:</string>
+    <string name="電話">電話:</string>
+    <string name="姓名">姓名:</string>
+    <string name="修改">修改</string>
+    <string name="修改2">修改</string>
+    <string name="修改3">修改</string>
+    <string name="修改4">修改</string>
 </resources>
